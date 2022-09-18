@@ -1,0 +1,10 @@
+body {
+    font-family: 'roboto-medium', 'roboto-light', sans-serif;
+}
+
+.navbar-brand img {
+    width: 86px;
+}
+footer img {
+    width: 90px;
+}
